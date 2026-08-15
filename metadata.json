@@ -1,0 +1,6 @@
+{
+  "name": "MacroScan - Calorie & Macro Tracker",
+  "description": "An iPhone-optimized calorie and macronutrient tracker with live barcode scanning, OpenFoodFacts macro recognition, and AI meal analysis.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
